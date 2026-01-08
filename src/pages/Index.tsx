@@ -21,12 +21,12 @@ export default function Index() {
       <div 
         className="relative h-screen flex items-center justify-center overflow-hidden"
         style={{
-          backgroundImage: 'url(https://cdn.poehali.dev/projects/c57c8e9d-a044-42ad-81d7-fad7a48c3a21/files/d27a685c-a4d1-4e09-82ea-3923d9327892.jpg)',
+          backgroundImage: 'url(https://cdn.poehali.dev/files/IMG_9317.jpeg)',
           backgroundSize: 'cover',
           backgroundPosition: 'center'
         }}
       >
-        <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/70" />
+        <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/60" />
         
         <div className="relative z-10 text-center px-4 animate-fade-in">
           <div className="mb-8">
